@@ -74,7 +74,7 @@ A few problems from the Clear Minds backend and how I solved them.
 | **MotionFeed**<br/>personal project | TikTok/Reels-style vertical video feed built to hold 60 FPS on mid-range Android, with a live UI/JS FPS monitor. | React Native, Reanimated 4, Gesture Handler, Skia, expo-video |
 | **Audventour** | Travel and event app with Stripe payments, Mapbox maps (GPS and offline), push notifications and Google/Apple sign-in. | React Native, Stripe, Mapbox |
 
-Client code is private. I am happy to walk through the architecture and the decisions behind it on a call.
+The code for these projects lives in private repositories. I am happy to walk through the architecture and the decisions behind it on a call.
 
 ## Stack
 
